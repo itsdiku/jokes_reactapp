@@ -2,6 +2,7 @@
   "name": "jokes_app",
   "version": "0.1.65",
   "dependencies": {
+    "axios": "^1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "web-vitals": "^3.0.3"
@@ -12,7 +13,7 @@
     ]
   },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "react-refresh": "0.10.0",
+    "typescript": "latest"
   }
 }
