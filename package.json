@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build"
   },
-  "homepage": "https://itsdiku.github.io/jokes_app/",
+  "homepage": "https://itsdiku.github.io/jokes_reactapp/",
   "browserslist": {
     "production": [
       ">0.2%",
