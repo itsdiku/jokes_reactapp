@@ -5,6 +5,7 @@
     "axios": "^1.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^3.0.3"
   },
   "eslintConfig": {
@@ -17,11 +18,23 @@
     "react-refresh": "0.10.0",
     "typescript": "latest"
   },
-  "scripts":{
+  "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build"
   },
-  "homepage": "https://itsdiku.github.io/jokes_app/"
+  "homepage": "https://itsdiku.github.io/jokes_app/",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
