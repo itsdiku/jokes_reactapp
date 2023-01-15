@@ -11,7 +11,7 @@ body {
 }
 
 .app{
-  background-color: aliceblue;
+  background-color: rgb(94, 160, 218);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -30,9 +30,9 @@ body {
   box-shadow: 5px 10px #888888;
   padding-left: 5rem;
   padding-right: 5rem;
-  /* background: url('./assets/jokes.jpeg');
+  /* background: url('./assets/bg);
   background-repeat: no-repeat;
-  background-size: cover; */
+  background-size: cover; */ */
   
 }
 
@@ -47,7 +47,7 @@ body {
 
 .container .punchline{
   font-family: 'Rowdies',sans-serif;
-  font-size: 2rem;
+  font-size: 3rem;
   margin-bottom: 3rem;
   font-weight: 700;
   /* background-color: aliceblue; */
@@ -65,6 +65,6 @@ body {
 }
 
 .container .btn:hover{
-  background-color: blueviolet;
+  background-color: rgb(43, 226, 73);
   color: aliceblue;
 }
