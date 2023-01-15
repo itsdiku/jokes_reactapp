@@ -30,10 +30,9 @@ body {
   box-shadow: 5px 10px #888888;
   padding-left: 5rem;
   padding-right: 5rem;
-  background: url('./assets/bg);
+  background: url('./assets/jokes.jpeg');
   background-repeat: no-repeat;
-  background-size: cover; */
-  
+  background-size: cover;
 }
 
 .container .setup{
@@ -42,7 +41,6 @@ body {
   margin-bottom: 1.3rem;
   margin-top: 2.3rem;
   font-weight: 400;
-  /* background-color: aliceblue; */
 }
 
 .container .punchline{
@@ -50,14 +48,13 @@ body {
   font-size: 3rem;
   margin-bottom: 3rem;
   font-weight: 700;
-  /* background-color: aliceblue; */
 }
 
 .container .btn{
   padding: 1rem;
   font-size: 16px;
   font-weight: 600;
-  background-color: blue;
+  background-color: rgb(33, 251, 17);
   border: none;
   border-radius: 2rem;
   color: aliceblue;
